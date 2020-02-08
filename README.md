@@ -3,7 +3,7 @@ A modification to the standard oh-my-zsh installation to allow git-duet pair inf
 ## Prerequisites
 - oh-my-zsh is downloaded and installed.
 ## Installation
-1. Copy the duet.zsh script to you oh-my-zsh lib folder
+1. Copy the duet.zsh script to your oh-my-zsh lib folder
     `cp duet.zsh ~/.oh-my-zsh/lib`
 2. Copy the current theme to the custom theme folder
     `cp ~/.oh-my-zsh/themes/${ZSH_THEME}.zsh-theme ~/.oh-my-zsh/custom/themes`
