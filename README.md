@@ -15,5 +15,7 @@ A modification to the standard oh-my-zsh installation to allow git-duet pair inf
 
 3. Insert the contents of duet.zsh-theme-snippet into custom theme file created in step 2 (see example.zsh-theme)
 
+   ```cat duet.zsh-theme-snippet >>  ~/.oh-my-zsh/custom/themes/${ZSH_THEME}.zsh-theme```
+
 ## Notes
 - Depending on your theme and personal tastes it may be necessary to modify the snippet and library.
